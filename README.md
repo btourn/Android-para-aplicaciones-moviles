@@ -29,3 +29,8 @@
     * Cada Activity (código)
     * Cada Layout (código)
     * Cada pantalla en el Emulador
+
+
+## Entrega:
+
+Tienen tiempo para entregar hasta el Lunes 3, inclusive.
